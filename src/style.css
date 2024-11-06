@@ -1,0 +1,13 @@
+p{font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: rgb(203, 140, 63);
+    font-weight: 800;
+    font-size: 23px;
+     line-height: 30px;
+     letter-spacing: 1.3px;
+    text-transform:capitalize;
+background-color: antiquewhite;}
+nav{="font-family:'Times New Roman', Times, serif ;
+    background-color: rgb(252, 223, 187);
+    padding: 3%;margin: 10%;
+    background-color: antiquewhite;}
